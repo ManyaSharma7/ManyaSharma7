@@ -22,7 +22,7 @@
 
 ![Location](https://img.shields.io/badge/%F0%9F%93%8D%20Jalandhar%2C%20Punjab-India-4c1d95?style=flat-square&logoColor=white)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manya-sharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manyasharma7/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-themanyasharma7%40gmail.com-7c3aed?style=flat-square&logo=gmail&logoColor=white)](mailto:themanyasharma7@gmail.com)
 &nbsp;
