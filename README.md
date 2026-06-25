@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=200&section=header&text=Manya%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=60&descAlign=50" width="100%"/>
 
@@ -421,7 +421,7 @@ current_focus:
 
 *"Engineering is not just writing code — it is designing systems that outlive the moment they were built for."*
 
-<br/>
+<br/> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=120&section=footer&animation=fadeIn" width="100%"/>
 
