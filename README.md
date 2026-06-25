@@ -426,3 +426,34 @@ current_focus:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate Snake (light + dark)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ManyaSharma7
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
