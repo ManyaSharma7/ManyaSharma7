@@ -2,10 +2,10 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=120&section=footer&animation=fadeIn" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
-<div align="center">
+<div align="center"> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=200&section=header&text=Manya%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20B.Tech%20CSE&descAlignY=60&descAlign=50" width="100%"/>
 
@@ -44,7 +44,7 @@
 
 ---
 
-## `whoami`
+## `About me`
 
 ```yaml
 name:        Manya Sharma
@@ -360,7 +360,7 @@ current_focus:
 
 [![Gmail](https://img.shields.io/badge/Gmail-themanyasharma7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:themanyasharma7@gmail.com)
 &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manya-sharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manyasharma7/)
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-ManyaSharma7-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManyaSharma7)
 
