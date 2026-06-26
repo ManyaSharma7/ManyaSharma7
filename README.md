@@ -1,4 +1,4 @@
-# ManyaSharma7
+# Manya Sharma
 AI &amp; Machine Learning Student | B.Tech CSE @ LPU Building ML-powered applications and Full Stack projects. Open to Software Engineering &amp; ML Internships.
 <div align="center">
 
