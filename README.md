@@ -1,11 +1,16 @@
+# ManyaSharma7
+AI &amp; Machine Learning Student | B.Tech CSE @ LPU Building ML-powered applications and Full Stack projects. Open to Software Engineering &amp; ML Internships.
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=200&section=header&text=Manya%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=60&descAlign=50" width="100%"/>
+
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Full+Stack+%2B+AI%2FML+Engineering+%F0%9F%9A%80;Turning+Data+Into+Production-Grade+Products+%F0%9F%8C%90;Computer+Science+%40+Lovely+Professional+University+%F0%9F%8E%93" alt="Typing SVG" /></a> -->
+
+<br/>
+<br/>
 
 
 
-
- <img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-</div>
-<div align="center"> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=200&section=header&text=Manya%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20B.Tech%20CSE&descAlignY=60&descAlign=50" width="100%"/>
 
